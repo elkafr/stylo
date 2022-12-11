@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "55354687797",
+    "project_id": "stylo-8ab50",
+    "storage_bucket": "stylo-8ab50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55354687797:android:1806b985a68673b7ad8c7c",
+        "android_client_info": {
+          "package_name": "com.omar.stylo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55354687797-7hae8cli257q6quktqps13b781685nmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSNEF5xgIiCpOicVxmOsst-NJF4uBBfh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55354687797-7hae8cli257q6quktqps13b781685nmk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55354687797-8jptgecavujricsqv93c8i04emc24r5q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.omar.stylo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
